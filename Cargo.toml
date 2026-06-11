@@ -1,0 +1,9 @@
+[package]
+name = "godel_number"
+version = "0.1.0"
+description = "A Rust library for Godel_number"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/godel_number"
+edition = "2021"
+
+[dependencies]
